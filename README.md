@@ -7,7 +7,7 @@ In the repository, you will find all the files of the Wordpress site that can be
 
 The site can be viewed properly when uploaded to any WordPress hosting provider.
 
-Also, find attached the Video of the Complete Site Navigation for reference.
+Download the zip file and uncompress into a folder.  Clicke "Open-TNFCTORG.html" to start viewing the website in offline mode.
 
 Pl. note that all contents may not be ready yet, such as Team photos.  This is being worked upon and uploaded asap.
 
